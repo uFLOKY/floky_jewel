@@ -1,0 +1,23 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>ol_jewel_milo_.ymap</Item>
+    <Item>hei_bh1_occl_05.ymap</Item>
+    <Item>floky_jewe_milo_.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>v_int_23.ytyp</Item>
+    <Item>floky_jwe.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
