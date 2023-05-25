@@ -1,7 +1,7 @@
 # floky_jewel
 Jewel map
 
-* Go to bob74_ipl or any IPL Loader you use find and disable ("this post_hiest_unload")
+* Go to bob74_ipl or any IPL Loader you use find and disable this ("post_hiest_unload")
 
 
 ![Screenshot_1](https://github.com/uFLOKY/floky_jewel/assets/80961359/90fa20ef-b6c3-41b2-a01c-186918a9eab5)
